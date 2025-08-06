@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_module">
+    <sys_ui_module action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <application display_value="Warehouse Table">736df92b8303ae10390d92d6feaad33e</application>
+        <filter/>
+        <name>Warehouse Tables</name>
+        <order/>
+        <path/>
+        <path_relative_to_root>false</path_relative_to_root>
+        <roles>x_1806614_airport.warehouse_table_user</roles>
+        <sys_class_name>sys_ui_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-08-05 06:05:06</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>7b6df92b8303ae10390d92d6feaad340</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Warehouse Tables</sys_name>
+        <sys_package display_value="Airport Management System" source="x_1806614_airport">60025d63834f6e10390d92d6feaad340</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Airport Management System">60025d63834f6e10390d92d6feaad340</sys_scope>
+        <sys_update_name>sys_ui_module_7b6df92b8303ae10390d92d6feaad340</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-08-05 06:05:06</sys_updated_on>
+        <table>x_1806614_airport_warehouse_table</table>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+    </sys_ui_module>
+</record_update>

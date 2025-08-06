@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="5fac79a38303ae10390d92d6feaad3b2" label="Warehouse Table" max_length="40" name="x_1806614_airport_warehouse_table" type="collection">
+        <element label="Last Stock Check" max_length="40" name="last_stock_check" type="glide_date"/>
+        <element label="Current Usage" max_length="20" name="current_usage" type="decimal"/>
+        <element label="Location" max_length="40" name="location" type="string"/>
+        <element choice="1" label="Type" max_length="40" name="type" type="choice">
+            <choice/>
+        </element>
+        <element label="Capacity" max_length="20" name="capacity" type="decimal"/>
+        <element label="Warehouse ID" max_length="40" name="warehouse_id" type="string"/>
+    </element>
+</database>
